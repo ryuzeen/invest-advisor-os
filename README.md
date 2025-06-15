@@ -96,3 +96,9 @@ curl -X POST http://localhost:5000/recomendar -H "Content-Type: application/json
 | - Monitoramento de saúde do sistema               | 15       | ✅ Sugerido    |
 | - Melhorias pós-implantação                        | 5        | ✅ Sugerido    |
 | - Políticas contínuas de manutenção                | 10       | ✅ Documentado |
+
+---
+
+Rafael Perussi Caczan - RM93092
+Octávio Hernandez Chiste Cordeiro - RM97894
+Sabrina Flores - RM550781
