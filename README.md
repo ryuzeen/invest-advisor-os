@@ -38,8 +38,8 @@ Este projeto consiste em uma API RESTful implementada em Python com Flask, que f
 
 1. Clone o repositório:
 ```
-git clone https://github.com/seuusuario/seuprojeto.git
-cd seuprojeto
+git clone https://github.com/ryuzeen/invest-advisor-os.git
+cd invest-advisor
 ```
 
 2. Crie e ative o ambiente virtual:
