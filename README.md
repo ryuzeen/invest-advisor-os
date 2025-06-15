@@ -99,6 +99,6 @@ curl -X POST http://localhost:5000/recomendar -H "Content-Type: application/json
 
 ---
 
-Rafael Perussi Caczan - RM93092
-Octávio Hernandez Chiste Cordeiro - RM97894
-Sabrina Flores - RM550781
+- Rafael Perussi Caczan - RM93092
+- Octávio Hernandez Chiste Cordeiro - RM97894
+- Sabrina Flores - RM550781
